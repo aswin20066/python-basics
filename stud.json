@@ -1,0 +1,28 @@
+{
+   "students": [
+      {
+         "Sno": 1,
+         "Name": "Aswin.J",
+         "Age": "17",
+         "Address": "Thoothukudi",
+         "course": "python",
+         "Duration": "1 month"
+      },
+      {
+         "Sno": 2,
+         "Name": "test",
+         "Age": "19",
+         "Address": "Enter student changed Address : ",
+         "course": "python",
+         "Duration": "2 Month"
+      },
+      {
+         "Sno": 3,
+         "Name": "joe",
+         "Age": "17",
+         "Address": "thoothukudi",
+         "course": "c++",
+         "Duration": "1 month"
+      }
+   ]
+}
